@@ -1,0 +1,8 @@
+# Copy to terraform.tfvars and fill in the names from YOUR vCenter inventory:
+#   cp terraform.tfvars.example terraform.tfvars
+
+student    = "s01"
+datacenter = "DC-Lab"
+host       = "192.168.100.31"
+datastore  = "datastore1"
+network    = "VM Network"

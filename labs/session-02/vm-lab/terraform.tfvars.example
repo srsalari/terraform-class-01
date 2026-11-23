@@ -1,0 +1,10 @@
+# Bring your terraform.tfvars from Session 1, or copy this file:
+#   cp terraform.tfvars.example terraform.tfvars
+
+student   = "s01"
+datastore = "datastore1"
+network   = "VM Network"
+
+# vCenter only (host in lockdown mode, VSPHERE_SERVER = the vCenter):
+# datacenter = "DC-Lab"
+# host       = "esxi01.example.local"

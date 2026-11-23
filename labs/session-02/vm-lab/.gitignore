@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+# Saved plans can contain secrets in plain text
+tfplan
+*.tfplan

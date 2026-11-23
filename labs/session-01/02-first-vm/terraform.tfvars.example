@@ -1,0 +1,6 @@
+# Copy to terraform.tfvars and fill in your values:
+#   cp terraform.tfvars.example terraform.tfvars
+
+student   = "s01"
+datastore = "datastore1"
+network   = "VM Network"
